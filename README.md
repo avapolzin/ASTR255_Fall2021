@@ -10,4 +10,4 @@ There are a number of ways to download only the relevant files from a GitHub rep
 The tutorial topics are (roughly) as follows:
 * Tutorial 1 -- basic plotting, data types, simple fitting
 * Tutorial 2 -- histograms, more complex fitting
-* ...
+* Tutorial 3 -- basic astropy, FITS handling
